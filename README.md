@@ -1,0 +1,1 @@
+Создадим коммит с описанием prepare for merge and rebase и отправим его в ветку main.
