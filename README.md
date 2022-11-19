@@ -7,3 +7,9 @@
 	git add merge.sh
 	git commit -m 'merge: @ instead *'
 	git push origin
+И разработчик подумал и решил внести еще одно изменение в merge.sh
+Создайте коммит merge: use shift и отправьте изменения в репозиторий.
+	git add merge.sh
+	git commit -m 'merge: use shift'
+	git push origin
+	
